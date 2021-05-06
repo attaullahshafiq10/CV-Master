@@ -1,5 +1,9 @@
 # CV Master
 
+If you have ever tried to build a Resume or CVe using a MS word platform or like this, you know it takes time and the results are not always satisfactory.
+
+The goal of CV-Master is to provide a quick and easy way to build a high quality CV, while still enabling custom layout if desired.
+
 
 
 ### Credit

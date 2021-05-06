@@ -4,6 +4,8 @@ If you have ever tried to build a Resume or CVe using a MS word platform or like
 
 The goal of CV-Master is to provide a quick and easy way to build a high quality CV, while still enabling custom layout if desired.
 
+### Motivation
+I created this template as managing a resume on Google Docs was hard and changing any formatting was too difficult since it had to be applied in multiple places. Most currently available templates either focus on two columns, or are multiple pages long. I personally found the two-column templates hard to focus while multiple-page resumes were just too long to be used in career fairs.
 
 
 ### Credit

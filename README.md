@@ -20,6 +20,19 @@ Source Sans Pro is a set of OpenType fonts that have been designed to work well 
 You are free to take my .tex file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
 
 
+### Main Features
+
+Simple template that can be further customized or extended.
+
+Template document contains numerous examples.
+
+Direct support for TrueType (TTF) and OpenType (OTF) fonts.
+
+Direct support for multilingual Unicode characters, with the appropriate fonts.
+
+Hyperlinks can be included in generated PDF.
+
+
 
 If you have any questions, feel free to join me at [LinkedIn](https://www.linkedin.com/in/attaullahshafiq10/) , [Dev Community](https://dev.to/attaullahshafiq10) or [Instagram](https://www.instagram.com/iamattaullah10/)
 

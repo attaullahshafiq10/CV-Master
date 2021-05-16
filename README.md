@@ -1,4 +1,7 @@
-# CV Master
+# Atta's CV Master
+ 
+ 
+Overleaf Approved Project 
 
 If you have ever tried to build a Resume or CVe using a MS word platform or like this, you know it takes time and the results are not always satisfactory.
 
